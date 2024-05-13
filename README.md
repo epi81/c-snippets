@@ -1,1 +1,1 @@
-# c-snipets
+# c-snippets
